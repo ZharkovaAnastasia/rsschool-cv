@@ -28,7 +28,7 @@ function multiply(a, b) {
 ## Education
 Bachelor Degree\
 Saratov State University\
-2015-2020\
+2015-2020
 
 ## Languages
 * Russian: Native
