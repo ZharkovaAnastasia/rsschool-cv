@@ -4,7 +4,7 @@
 
 ## Contact
 * phone: +79033848821
-* email: zharkova.anastasia@gmail.com
+* email: zharkova.anastasia.1997@gmail.com
 * discord: @ZharkovaAnastasia
 
 ## Profile
